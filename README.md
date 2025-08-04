@@ -1,4 +1,4 @@
-# MCP Practice Server
+# MCP Server
 
 A Model Context Protocol (MCP) server implementation that provides tools for interacting with Notion databases and weather services. This project demonstrates how to build an MCP server using TypeScript with various external API integrations.
 
