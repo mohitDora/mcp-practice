@@ -48,9 +48,6 @@ mcp-practice/
 │   ├── utils/
 │   │   └── type.ts            # TypeScript type definitions
 │   └── index.ts               # Main MCP server implementation
-├── client/
-│   └── agent_demo/
-│       └── agent.py           # Example client implementation
 ├── package.json
 ├── tsconfig.json
 └── README.md
